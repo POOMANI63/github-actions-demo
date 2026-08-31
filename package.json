@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "Simple practical demo for CI/CD Pipeline using GitHub Actions",
+  "main": "math.js",
+  "scripts": {
+    "test": "node math.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
